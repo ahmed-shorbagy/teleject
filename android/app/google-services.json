@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927517323812",
+    "project_id": "teleject-dd58b",
+    "storage_bucket": "teleject-dd58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927517323812:android:aa9fb0f217339cef7b1eb1",
+        "android_client_info": {
+          "package_name": "com.teleject.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927517323812-cars067ghi786jv1330t5vkkdh927772.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDa7rsHMo9Ag4acvqHSUlge5sVi68bUUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927517323812-cars067ghi786jv1330t5vkkdh927772.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
